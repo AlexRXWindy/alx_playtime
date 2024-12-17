@@ -1,0 +1,5 @@
+version=1.0.0
+release_date=21/12/2025
+notes=Bug fixes in the menu.,Improved framework detection.,Updated language support for Chinese.
+download_link=https://keymaster.fivem.net/asset-grants
+changelog_link=https://github.com/AlexRXWindy/alx_callsign/changelog
